@@ -192,6 +192,9 @@ model1_1 = aov(Length ~ Group, data=data)
 summary(model1_1)
 ```
 
+![4c](https://user-images.githubusercontent.com/90259304/207308610-85a3bcb2-2926-4219-9cba-b726a3b5622a.png)
+
+
 
 
 
